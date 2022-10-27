@@ -1,0 +1,36 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAC7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAzMDMwMzAzMDMwMzAzMDEwMTAxMDEwMTAxMDEwNTA1MDIwMjAyMDIwMjAyMDIwNDA0MDQwNDA0MDQwMTA1MDUwNTA1MDUwNTA1MDUwNTA1MDQwNDA0MDQwNDA0MDcwNjA3MDcwNzA3MDcwNzA3MDcwNzA3MDkwOTA5MDkwODA4MDYwNjA2MDYwNjA3MDYwNjA3MDcwNzA3MDcwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwMzAzMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwNDA0MDQwNDA0MDQwNTA1MDUwNTA1MDQwNDA0MDQwMTAyMDIwMjAyMDIwMjA0MDQwNDA0MDQwMjAyMDQwNDAyMDcwNzA3MDYwNjA2MDYwNjA2MDYwNjA2MDYwNzA3MDcwNzA3MDcwNzA3MDcwNzA2MDYwNjA2MDYwNzA3MDcwNzA4MDgwODA4MDYwNjA2MDcwNzA3MDcwNzA3MDcwOTA5MDcwNzA3MDcwNzA3MDcwNjA2MDYwNjA2MDYwNzA3MDcwMTAxMDYwNjA2MDYwNjA2MDYwNjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.floorLight1",
+            "sprites.dungeon.floorMixed",
+            "sprites.dungeon.floorDark4",
+            "sprites.dungeon.floorDarkDiamond",
+            "sprites.dungeon.floorLight5",
+            "sprites.dungeon.floorLight3",
+            "sprites.dungeon.floorDark3"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
